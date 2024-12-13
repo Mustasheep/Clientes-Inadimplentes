@@ -1,6 +1,6 @@
 # Clientes Inadimplentes 💳
 
-Este repositório é um projeto pessoal com dados publicamente disponíveis. Até o momento fiz a importação dos dados para um dataset, uma breve análise e uma limpeza de valores duplicados e de valores zerados.
+Este repositório é um projeto pessoal com dados publicamente disponíveis. O objetivo é desenvolver um modelo que preveja se uma conta ficará dividenda no próximo mês, de acordo com dados demográficos e históricos.
 
 ## 📄 Informações importantes sobre as variáveis
 

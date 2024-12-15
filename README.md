@@ -11,7 +11,7 @@ Este repositório é um projeto pessoal com dados publicamente disponíveis. O o
 - **MARRIAGE:** Estado civil (1 = casado; 2 = solteiro; 3 = outros).
 - **AGE:** Idade (ano).
 - **PAY_1 - PAY_6:** Registro de pagamentos passados. Pagamentos mensais passados, registrados de abril a setembro (PAY_6 = abril; PAY_1 = setembro), com escala: -2 = começou o mês sem valor a ser pago e crédito não utilizado; -1 = pagamento totalmente pago; 0 = pagamento mínimo feito mas saldo total não foi pago; 1 = atraso de um mês; 2 = atraso de dois meses; ...; 8 = atraso de oito meses; 9 = atraso de nove meses ou mais.
-- **BILL_AMT1 - BILL_AMT6:** Valor da fatura (em novos dólares taiwaneses).  BILL_AMT6 representa o valor da fatura em abril; BILL_AMT1 representa o valor da fatura em setembro.
-- **PAY_AMT1 - PAY_AMT6:** Valor de pagamentos anteriores (novos dólares taiwaneses). PAY_AMT6 representa o valor pago em abril; PAY_AMT1 representa o valor pago em setembro.
+- **BILL_AMT1 - BILL_AMT6:** Valor da fatura (em novos dólares taiwaneses), a partir do mês de abril até setembro.
+- **PAY_AMT1 - PAY_AMT6:** Valor de pagamentos anteriores (novos dólares taiwaneses), a partir do mês de abril até setembro.
 
 _Projeto ainda em andamento..._
